@@ -1,6 +1,6 @@
 {
   "name": "autocomplete-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Autocomplete input box with keyboard navigation enabled",
   "main": "index.js",
   "scripts": {
